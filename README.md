@@ -1,1 +1,1 @@
-# Hi, and welcome to my Egyzilla Site's repository
+# Hi, and welcome to my Egyzilla's Blog repository
