@@ -69,7 +69,7 @@ body {
 .miniNavbar {
   display: none;
 }
-@media (max-width: 412px) {
+@media (max-width: 540px) {
   .miniNavbar {
     display: block;
     background-color: var(--subColor5);
