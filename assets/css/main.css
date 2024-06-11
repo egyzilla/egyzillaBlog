@@ -65,7 +65,7 @@ body {
     }
   }
 }
-@media (max-width: 540px) {
+@media (max-width: 720px) {
   .header {
     position: fixed;
     top: 0;
@@ -80,7 +80,7 @@ body {
 .miniNavbar {
   display: none;
 }
-@media (max-width: 540px) {
+@media (max-width: 720px) {
   .miniNavbar {
     display: block;
     background-color: var(--subColor5);
